@@ -1,2 +1,2 @@
-# computacionGrafica
+# computacion
  
