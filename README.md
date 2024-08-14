@@ -1,4 +1,4 @@
-# computacion
+# computación Maria Fernanda Garcia Saldarriaga
 ---
 
 # Ejercicio 1: tornado
