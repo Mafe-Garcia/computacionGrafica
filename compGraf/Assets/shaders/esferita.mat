@@ -75,6 +75,7 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 2
+    - _Displacementidk: 0
     - _DstBlend: 10
     - _Float: 0.52
     - _IndexOfRefraction: 2.01
@@ -88,6 +89,7 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
+    - _AnimationParams: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 3.9533494, g: 0, b: 3.2482867, a: 1}
     - _InterceptionParams: {r: 0, g: 0.33, b: 0, a: 0}
     - _NormalTiling: {r: 2, g: 2, b: 2, a: 0}
