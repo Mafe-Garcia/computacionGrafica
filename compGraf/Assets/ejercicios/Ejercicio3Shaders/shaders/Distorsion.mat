@@ -61,19 +61,19 @@ Material:
     - _CastShadows: 1
     - _Cull: 2
     - _DstBlend: 10
-    - _Opacity: 0.447
+    - _Opacity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionIntensity: 12.35
+    - _RefractionIntensity: -22.21
     - _SrcBlend: 5
-    - _Strength: 1
+    - _Strength: 14.8
     - _Surface: 1
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 0.9245283, g: 0.32707366, b: 0.76043105, a: 0}
-    - _NormalTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Color: {r: 1, g: 0.2216981, b: 0.7863488, a: 0}
+    - _NormalTiling: {r: 5, g: 5, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3280621823260407940
 MonoBehaviour:
