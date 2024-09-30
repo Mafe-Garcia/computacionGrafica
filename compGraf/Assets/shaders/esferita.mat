@@ -78,11 +78,11 @@ Material:
     - _Displacementidk: 0
     - _DstBlend: 10
     - _Float: 0.52
-    - _IndexOfRefraction: 2.01
-    - _NormalIntensity: 0.38
+    - _IndexOfRefraction: 5.06
+    - _NormalIntensity: 0.21
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionIntensity: 100
+    - _RefractionIntensity: 55.8
     - _SrcBlend: 5
     - _Surface: 1
     - _ZTest: 4
