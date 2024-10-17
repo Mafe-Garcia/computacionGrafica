@@ -55,19 +55,20 @@
 
 ## Como se ve:
 
-![aguatry2](https://github.com/user-attachments/assets/4b01c1d3-b9a1-4aa7-b91d-04c19806003d)
+![aguatry3](https://github.com/user-attachments/assets/75e4e166-6b74-4900-9bf5-0f388744d371)
+
 
 ## Shader:
 
-![imagen](https://github.com/user-attachments/assets/3c7ed8d0-6c89-48c5-9c0c-b2571a414da6)
+![imagen](https://github.com/user-attachments/assets/ebdb75e2-0c3b-4ad5-b41d-60cad54d03ec)
 
-![imagen](https://github.com/user-attachments/assets/c0f9b230-8db5-4149-8dc2-53d5a906a054)
+![imagen](https://github.com/user-attachments/assets/e52b8d74-cf6c-4ba3-b32c-5786626f5e66)
 
-![imagen](https://github.com/user-attachments/assets/afb66cf5-b416-4644-946a-c4645f01814f)
+![imagen](https://github.com/user-attachments/assets/ce377e93-665b-4e6d-a088-715df3acab14)
+
+![imagen](https://github.com/user-attachments/assets/c566dc70-892e-4caf-8aef-6bd9d6790afb)
 
 
-![imagen](https://github.com/user-attachments/assets/9b141529-ca62-4121-822e-1c4373c67d21)
-
-
+![imagen](https://github.com/user-attachments/assets/a47bfb9a-f7b8-4f10-aa01-1712ce17c6ee)
 
 
