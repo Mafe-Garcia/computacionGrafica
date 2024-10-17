@@ -33,3 +33,41 @@
 ![tornadogrande](https://github.com/user-attachments/assets/aac80894-eb94-46bf-b459-f4843d03f483)
 
 ![tornadopeque](https://github.com/user-attachments/assets/872ec8fa-5504-483e-b579-5cf26ef5f538)
+
+---
+
+# Ejercicio 2: escudo
+
+---
+
+# Ejercicio 3: 2 shaders
+
+## 1: Distorsión:
+![shaderdistorsion](https://github.com/user-attachments/assets/15417d0e-268d-4a0b-8389-ec9685ddbbee)
+
+## Shader:
+
+![imagen](https://github.com/user-attachments/assets/66bc02e0-6028-4333-8bdb-9f48458bd5b0)
+
+---
+
+# Ejercicio 4: agua
+
+## Como se ve:
+
+![intento1agua](https://github.com/user-attachments/assets/f9c0ee70-8727-4e97-af20-d620933d8d64)
+
+## Shader:
+
+![imagen](https://github.com/user-attachments/assets/3c7ed8d0-6c89-48c5-9c0c-b2571a414da6)
+
+![imagen](https://github.com/user-attachments/assets/c0f9b230-8db5-4149-8dc2-53d5a906a054)
+
+![imagen](https://github.com/user-attachments/assets/afb66cf5-b416-4644-946a-c4645f01814f)
+
+
+![imagen](https://github.com/user-attachments/assets/9b141529-ca62-4121-822e-1c4373c67d21)
+
+
+
+
