@@ -42,8 +42,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Amplitud: 0.05
+    - _Frequency: 2.23
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Windspeed: 1.85
     m_Colors: []
   m_BuildTextureStacks: []
 --- !u!114 &5528260472688541661

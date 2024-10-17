@@ -31,8 +31,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Normal:
         m_Texture: {fileID: 2800000, guid: b3c0dbdcf00b4ec4384162f1b27d0039, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Scale: {x: 0.9, y: 0.91}
+        m_Offset: {x: 0.01, y: 0}
     - _SampleReflectedCubemap_314a125fbb354bbf9c5b2d007a43d9d4_Cube_1_Cubemap:
         m_Texture: {fileID: 8900000, guid: c6ebdec99b6502f489ddaa4536afcb48, type: 3}
         m_Scale: {x: 1, y: 1}
