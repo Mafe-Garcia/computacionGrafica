@@ -31,7 +31,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Normal:
         m_Texture: {fileID: 2800000, guid: b3c0dbdcf00b4ec4384162f1b27d0039, type: 3}
-        m_Scale: {x: 0.9, y: 0.91}
+        m_Scale: {x: -0.99, y: 2.38}
         m_Offset: {x: 0.01, y: 0}
     - _SampleReflectedCubemap_314a125fbb354bbf9c5b2d007a43d9d4_Cube_1_Cubemap:
         m_Texture: {fileID: 8900000, guid: c6ebdec99b6502f489ddaa4536afcb48, type: 3}
@@ -64,7 +64,7 @@ Material:
     - _Opacity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionIntensity: -0.35
+    - _RefractionIntensity: -0.58
     - _SrcBlend: 5
     - _Strength: -0.24
     - _Surface: 1
@@ -72,7 +72,7 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 0.9529412, g: 0.5812941, b: 0.85456395, a: 1}
+    - _Color: {r: 1, g: 0.91187763, b: 0.48627448, a: 1}
     - _NormalTiling: {r: 5, g: 5, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3280621823260407940
