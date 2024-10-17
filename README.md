@@ -55,7 +55,7 @@
 
 ## Como se ve:
 
-![intento1agua](https://github.com/user-attachments/assets/f9c0ee70-8727-4e97-af20-d620933d8d64)
+![aguatry2](https://github.com/user-attachments/assets/4b01c1d3-b9a1-4aa7-b91d-04c19806003d)
 
 ## Shader:
 
