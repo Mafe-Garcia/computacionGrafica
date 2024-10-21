@@ -43,10 +43,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _Amplitud: 0.05
-    - _Frequency: 2.23
+    - _Frequency: 1.67
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Windspeed: 1.85
+    - _Windspeed: 0.86
     m_Colors: []
   m_BuildTextureStacks: []
 --- !u!114 &5528260472688541661
