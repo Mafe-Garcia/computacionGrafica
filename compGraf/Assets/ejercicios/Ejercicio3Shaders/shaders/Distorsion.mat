@@ -64,7 +64,7 @@ Material:
     - _Opacity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionIntensity: -0.58
+    - _RefractionIntensity: -0.12
     - _SrcBlend: 5
     - _Strength: -0.24
     - _Surface: 1
